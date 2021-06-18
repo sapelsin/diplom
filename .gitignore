@@ -1,2 +1,5 @@
 /text.txt
 /variables.tf
+.terraform/
+/.terraform.lock.hcl
+/terraform.tfstate
